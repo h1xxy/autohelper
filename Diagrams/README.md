@@ -4,5 +4,5 @@
 2. [Activity](https://github.com/h1xxy/autohelper/tree/master/Diagrams/Activity)
 3. [Sequence](https://github.com/h1xxy/autohelper/tree/master/Diagrams/Sequence)
 4. [Statechart]()
-5. [Class]()
+5. [Class](https://github.com/h1xxy/autohelper/tree/master/Diagrams/dgr%20class)
 6. [Deployment]()
